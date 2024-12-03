@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		C0A370662CFF647200A59992 /* CSCI202-M06-Graphs */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CSCI202-M06-Graphs"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C0A370702CFF650300A59992 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -44,6 +45,7 @@
 		C0A3705D2CFF647200A59992 = {
 			isa = PBXGroup;
 			children = (
+				C0A370702CFF650300A59992 /* README.md */,
 				C0A370682CFF647200A59992 /* CSCI202-M06-Graphs */,
 				C0A370672CFF647200A59992 /* Products */,
 			);
